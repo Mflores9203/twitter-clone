@@ -1,5 +1,4 @@
 import { CalendarIcon, ChartBarIcon, FaceSmileIcon,  MapPinIcon, PhotoIcon } from "@heroicons/react/24/outline";
-import React from "react";
 
 function TweetInput() {
   return (
